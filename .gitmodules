@@ -1,0 +1,6 @@
+[submodule "meta-jumper04"]
+	path = meta-jumper04
+	url = https://github.com/wolflo/meta-jumper04.git
+[submodule "meta-jumper06"]
+	path = meta-jumper06
+	url = https://github.com/wolflo/meta-jumper06.git
